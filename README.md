@@ -1,6 +1,6 @@
 OVERVIEW
 ========
 
-This script is an example of how to extract streams from mov to create a pair of videos using the audio tracks.
+This script is an example of how to given a video with several audio tracks, you can extract each track separately, and multiplex again creating one video per track. 
 
-NOTE: This is a private script with a lot of workarounds and hardcoded code. 
+*NOTE*: This is a private script with a lot of workarounds and hardcoded code. 
